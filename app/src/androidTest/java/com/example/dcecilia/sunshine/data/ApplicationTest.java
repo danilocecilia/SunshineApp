@@ -1,4 +1,4 @@
-package com.example.dcecilia.sunshine;
+package com.example.dcecilia.sunshine.data;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
